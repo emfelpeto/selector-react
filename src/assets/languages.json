@@ -1,0 +1,17 @@
+[
+    { "value": "english", "name": "English" },
+    { "value": "spanish", "name": "Spanish" },
+    { "value": "french", "name": "French" },
+    { "value": "german", "name": "German" },
+    { "value": "chinese", "name": "Chinese" },
+    { "value": "hindi", "name": "Hindi" },
+    { "value": "arabic", "name": "Arabic" },
+    { "value": "japanese", "name": "Japanese" },
+    { "value": "portuguese", "name": "Portuguese" },
+    { "value": "russian", "name": "Russian" },
+    { "value": "italian", "name": "Italian" },
+    { "value": "korean", "name": "Korean" },
+    { "value": "dutch", "name": "Dutch" },
+    { "value": "turkish", "name": "Turkish" },
+    { "value": "vietnamese", "name": "Vietnamese" }
+]

@@ -1,0 +1,10 @@
+main {
+    display: flex;
+    place-items: center start;
+    flex-direction: column;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
